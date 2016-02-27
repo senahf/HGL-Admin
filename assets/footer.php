@@ -13,9 +13,9 @@
 <script src="assets/chartist/dist/chartist.min.js"></script>
 <script type="text/javascript" src="assets/Materialize/dist/js/materialize.min.js"></script>
 <?php
-<script type="text/javascript">
+/*<script type="text/javascript">
 (function () {
-/*//buttons
+//buttons
 $(".button-collapse").sideNav();
 //loader and loading
 $('.loading img').fadeIn(600).removeClass('hide');
