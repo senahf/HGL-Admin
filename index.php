@@ -12,4 +12,5 @@ case null:
 include_once 'assets/header.php';
 include_once 'assets/pages/' . tsun($getpage) . '.php';
 include_once 'assets/footer.php';
+
 ?>
